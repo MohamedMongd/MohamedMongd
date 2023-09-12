@@ -1,6 +1,6 @@
 ## Hey there, I'm MohamedMongd
 
-![](https://img.shields.io/badge/React-Developer-FD5353) ![](https://img.shields.io/badge/UI/UX-Designer-276ccc) ![](https://img.shields.io/badge/Architecture-Photographer-f2c12d) ![](https://img.shields.io/badge/Exp-+2yrs-0a3659)
+![](https://img.shields.io/badge/React-Developer-FD5353) ![](https://img.shields.io/badge/UI/UX-Designer-276ccc) 
 
 - **Junior Front-End Developer (React)** 
 
