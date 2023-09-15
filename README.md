@@ -1,4 +1,5 @@
 ## Hey there, I'm MohamedMongd
+<img src="https://github.com/n8tu/n8tu/blob/main/banner.png" alt="Hello world" style="max-width: 100%;">
 
 ![](https://img.shields.io/badge/React-Developer-FD5353) ![](https://img.shields.io/badge/UI/UX-Designer-276ccc) 
 
